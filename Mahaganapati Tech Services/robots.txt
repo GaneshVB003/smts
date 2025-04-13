@@ -34,4 +34,4 @@ Disallow:
 User-agent: *
 Disallow: 
 Disallow: /cgi-bin/
-Sitemap: https://smts.onrender.com/
+Sitemap: https://smts.onrender.com/sitemap.xml
